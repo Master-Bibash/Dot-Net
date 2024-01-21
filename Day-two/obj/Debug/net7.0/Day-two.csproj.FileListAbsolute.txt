@@ -1,0 +1,15 @@
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.csproj.AssemblyReference.cache
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.GeneratedMSBuildEditorConfig.editorconfig
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.AssemblyInfoInputs.cache
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.AssemblyInfo.cs
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.csproj.CoreCompileInputs.cache
+d:\dot net\file\Day-two\bin\Debug\net7.0\Day-two.exe
+d:\dot net\file\Day-two\bin\Debug\net7.0\Day-two.deps.json
+d:\dot net\file\Day-two\bin\Debug\net7.0\Day-two.runtimeconfig.json
+d:\dot net\file\Day-two\bin\Debug\net7.0\Day-two.dll
+d:\dot net\file\Day-two\bin\Debug\net7.0\Day-two.pdb
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.dll
+d:\dot net\file\Day-two\obj\Debug\net7.0\refint\Day-two.dll
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.pdb
+d:\dot net\file\Day-two\obj\Debug\net7.0\Day-two.genruntimeconfig.cache
+d:\dot net\file\Day-two\obj\Debug\net7.0\ref\Day-two.dll
