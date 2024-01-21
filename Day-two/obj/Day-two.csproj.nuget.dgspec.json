@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\dot net\\file\\Day-one\\file.csproj": {}
+    "D:\\dot net\\file\\Day-two\\Day-two.csproj": {}
   },
   "projects": {
-    "d:\\dot net\\file\\Day-one\\file.csproj": {
+    "D:\\dot net\\file\\Day-two\\Day-two.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dot net\\file\\Day-one\\file.csproj",
-        "projectName": "file",
-        "projectPath": "d:\\dot net\\file\\Day-one\\file.csproj",
+        "projectUniqueName": "D:\\dot net\\file\\Day-two\\Day-two.csproj",
+        "projectName": "Day-two",
+        "projectPath": "D:\\dot net\\file\\Day-two\\Day-two.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "d:\\dot net\\file\\Day-one\\obj\\",
+        "outputPath": "D:\\dot net\\file\\Day-two\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
