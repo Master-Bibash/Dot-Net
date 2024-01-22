@@ -1,0 +1,15 @@
+d:\dot net\file\Day-Three\bin\Debug\net7.0\Day-Three.exe
+d:\dot net\file\Day-Three\bin\Debug\net7.0\Day-Three.deps.json
+d:\dot net\file\Day-Three\bin\Debug\net7.0\Day-Three.runtimeconfig.json
+d:\dot net\file\Day-Three\bin\Debug\net7.0\Day-Three.dll
+d:\dot net\file\Day-Three\bin\Debug\net7.0\Day-Three.pdb
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.csproj.AssemblyReference.cache
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.GeneratedMSBuildEditorConfig.editorconfig
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.AssemblyInfoInputs.cache
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.AssemblyInfo.cs
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.csproj.CoreCompileInputs.cache
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.dll
+d:\dot net\file\Day-Three\obj\Debug\net7.0\refint\Day-Three.dll
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.pdb
+d:\dot net\file\Day-Three\obj\Debug\net7.0\Day-Three.genruntimeconfig.cache
+d:\dot net\file\Day-Three\obj\Debug\net7.0\ref\Day-Three.dll
