@@ -7,28 +7,30 @@ namespace DayThree.Assignment
      {
           static void Main(string[] args)
           {
-               Console.WriteLine("Enter the year");
-               int year=int.Parse(Console.ReadLine());
-               if(year%4==0){
-                    Console.WriteLine("Leap year");
+               Console.WriteLine("Entr vakue of a");
+               int a = int.Parse(Console.ReadLine());
+               Console.WriteLine("Entr vakue of b");
 
-               }else{
-                    Console.WriteLine("Not a leap year");
+               int b = int.Parse(Console.ReadLine());
+
+               Console.WriteLine($"b value is {b}");
+               swap(ref a, ref b);
+               Console.WriteLine($"value of a is {a} value of b is {b}");
+
+
+               //method to swap
+               void swap(ref int a, ref int b)
+               {
+                    a = a + b;//15
+                    b=a-b;
+                    a = a - b;
+                    
+
+
+
+
                }
 
-               // switch (year)
-               // {
-               //      case (year%4==0):
-               //      Console.WriteLine("This is a leap year");
-
-               //      case (year%4!=0):
-               //      Console.WriteLine("Not a leap year");
-
-                    
-               //      default:
-               //      Console.WriteLine("Please enter valid year");
-               // }
-               // Console.ReadKey();
 
 
           }
@@ -36,17 +38,5 @@ namespace DayThree.Assignment
 }
 
 
-// namespace DayThree.Assignment2
-// {
-//      class QuestionTwo
-//      {
-//           static void Main(string[] args)
-//           {
-//                Console.WriteLine("Enter the year two");
-
-
-//           }
-//      }
-// }
 
 
