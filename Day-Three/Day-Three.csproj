@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DayThree.Assignment.QuestionThree</StartupObject>
+    <StartupObject>DayThree.Assignment.QuestionSix</StartupObject>
   </PropertyGroup>
 
 </Project>
