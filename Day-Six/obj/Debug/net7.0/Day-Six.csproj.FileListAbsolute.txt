@@ -1,0 +1,15 @@
+d:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.csproj.AssemblyReference.cache
+d:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.GeneratedMSBuildEditorConfig.editorconfig
+d:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.AssemblyInfoInputs.cache
+d:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.AssemblyInfo.cs
+d:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.csproj.CoreCompileInputs.cache
+D:\dot net\file\Day-Six\bin\Debug\net7.0\Day-Six.exe
+D:\dot net\file\Day-Six\bin\Debug\net7.0\Day-Six.deps.json
+D:\dot net\file\Day-Six\bin\Debug\net7.0\Day-Six.runtimeconfig.json
+D:\dot net\file\Day-Six\bin\Debug\net7.0\Day-Six.dll
+D:\dot net\file\Day-Six\bin\Debug\net7.0\Day-Six.pdb
+D:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.dll
+D:\dot net\file\Day-Six\obj\Debug\net7.0\refint\Day-Six.dll
+D:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.pdb
+D:\dot net\file\Day-Six\obj\Debug\net7.0\Day-Six.genruntimeconfig.cache
+D:\dot net\file\Day-Six\obj\Debug\net7.0\ref\Day-Six.dll

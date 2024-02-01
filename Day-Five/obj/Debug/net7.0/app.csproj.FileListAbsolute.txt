@@ -1,0 +1,15 @@
+d:\dot net\file\Day-Five\bin\Debug\net7.0\app.exe
+d:\dot net\file\Day-Five\bin\Debug\net7.0\app.deps.json
+d:\dot net\file\Day-Five\bin\Debug\net7.0\app.runtimeconfig.json
+d:\dot net\file\Day-Five\bin\Debug\net7.0\app.dll
+d:\dot net\file\Day-Five\bin\Debug\net7.0\app.pdb
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.AssemblyInfo.cs
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.dll
+d:\dot net\file\Day-Five\obj\Debug\net7.0\refint\app.dll
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.pdb
+d:\dot net\file\Day-Five\obj\Debug\net7.0\app.genruntimeconfig.cache
+d:\dot net\file\Day-Five\obj\Debug\net7.0\ref\app.dll

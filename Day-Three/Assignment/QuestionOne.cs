@@ -4,7 +4,7 @@ using System;
 namespace DayThree.Assignment
 {
      class QuestionOne
-     {
+     { 
           static void Main(string[] args)
           {
                Console.WriteLine("Entr vakue of a");
