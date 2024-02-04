@@ -1,4 +1,3 @@
-//here we have used switch condition to make the user input and do as per the user interaction or command
      using System;
      using System.Security.Cryptography.X509Certificates;
      namespace DaySix.Example
