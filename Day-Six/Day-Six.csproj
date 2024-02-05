@@ -6,7 +6,7 @@
     <RootNamespace>Day_Six</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DaySix.Example.VSNI</StartupObject>
+    <StartupObject>DaySix.Example.VSI</StartupObject>
 
 
   </PropertyGroup>
