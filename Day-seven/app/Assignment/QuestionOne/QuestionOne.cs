@@ -67,52 +67,46 @@ namespace DaySeven.One
 {
      class QuestionOne
      {
-          static void Main(String[] args)
+          static void Main(string[] args)
           {
+               // Create instances of Book and DVD
+               Book book = new Book(101, "The Great Gatsby", "F. Scott Fitzgerald", 180);
+               DVD dvd = new DVD(201, "Inception", "Christopher Nolan", 148);
 
-               Book A = new Book();
-               A.DisplayItem("Bibash", 12);
-               DVD B = new DVD();
-               B.DisplayItem("ABC", 132);
+               // Display information about the items
+               Console.WriteLine("Before checking out:");
+               Console.WriteLine("Book:");
+               book.DisplayInfo();
+               Console.WriteLine("\nDVD:");
+               dvd.DisplayInfo();
 
+               // Check out the items
+               book.CheckOut();
+               dvd.CheckOut();
+
+               // Display information after checking out
+               Console.WriteLine("\nAfter checking out:");
+               Console.WriteLine("Book:");
+               book.DisplayInfo();
+               Console.WriteLine("\nDVD:");
+               dvd.DisplayInfo();
+
+               // Return the items
+               book.Return();
+               dvd.Return();
+
+               // Display information after returning
+               Console.WriteLine("\nAfter returning:");
+               Console.WriteLine("Book:");
+               book.DisplayInfo();
+               Console.WriteLine("\nDVD:");
+               dvd.DisplayInfo();
           }
-          class LibraryItem{
-               // int id;
-               // String name;
-               // bool IsChecked;
-               // public LibraryItem(int id,String name,bool IsChecked){
-               //      // this.id = id;
-               //      // this.name = name;
-               //      // this.IsChecked = IsChecked;
-               //      DisplayItem();
-               // }
-               public  void DisplayItem(int id,String name, bool IsChecked)
-               {
-                    Console.WriteLine($"The id is {id} name is {name} and is checked is ${IsChecked} ");
-
-               }
-
-          }
-          class Book:LibraryItem{
-               // String Author;
-               // int pages;
-               public void DisplayItem(String Author, int pages)
-               {
-                    Console.WriteLine($"Authot name is {Author} and pages are {pages}");
-
-               }
 
 
-          }
-          class DVD:LibraryItem{
-               // String Director;
-               // int Duration;
-               public void DisplayItem(String Director, int Duration)
-               {
-                    Console.WriteLine($"Director is {Director} and duration is {Duration}");
 
-               }
 
-          }
      }
-}
+         
+     }
+
