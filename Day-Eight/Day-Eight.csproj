@@ -3,12 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>Day_Six</RootNamespace>
+    <RootNamespace>Day_Seven</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>Example.ExampleTwo</StartupObject>
     <Nullable>enable</Nullable>
-    <StartupObject>DaySix.Example.MyListExample</StartupObject>
-
-
   </PropertyGroup>
 
 </Project>
