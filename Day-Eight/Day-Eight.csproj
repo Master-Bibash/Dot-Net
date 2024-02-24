@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>Day_Seven</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <StartupObject>Example.ExampleTwo</StartupObject>
+    <StartupObject>Example.ExampleThree</StartupObject>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 

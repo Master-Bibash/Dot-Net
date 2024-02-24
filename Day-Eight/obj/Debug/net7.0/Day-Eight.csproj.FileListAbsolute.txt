@@ -1,0 +1,15 @@
+d:\dot net\file\Day-Eight\bin\Debug\net7.0\Day-Eight.exe
+d:\dot net\file\Day-Eight\bin\Debug\net7.0\Day-Eight.deps.json
+d:\dot net\file\Day-Eight\bin\Debug\net7.0\Day-Eight.runtimeconfig.json
+d:\dot net\file\Day-Eight\bin\Debug\net7.0\Day-Eight.dll
+d:\dot net\file\Day-Eight\bin\Debug\net7.0\Day-Eight.pdb
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.csproj.AssemblyReference.cache
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.GeneratedMSBuildEditorConfig.editorconfig
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.AssemblyInfoInputs.cache
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.AssemblyInfo.cs
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.csproj.CoreCompileInputs.cache
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.dll
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\refint\Day-Eight.dll
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.pdb
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\Day-Eight.genruntimeconfig.cache
+d:\dot net\file\Day-Eight\obj\Debug\net7.0\ref\Day-Eight.dll
