@@ -1,0 +1,15 @@
+d:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.csproj.AssemblyReference.cache
+d:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.GeneratedMSBuildEditorConfig.editorconfig
+d:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.AssemblyInfoInputs.cache
+d:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.AssemblyInfo.cs
+d:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.csproj.CoreCompileInputs.cache
+D:\dot net\file\Day-Nine\bin\Debug\net7.0\Day-Nine.exe
+D:\dot net\file\Day-Nine\bin\Debug\net7.0\Day-Nine.deps.json
+D:\dot net\file\Day-Nine\bin\Debug\net7.0\Day-Nine.runtimeconfig.json
+D:\dot net\file\Day-Nine\bin\Debug\net7.0\Day-Nine.dll
+D:\dot net\file\Day-Nine\bin\Debug\net7.0\Day-Nine.pdb
+D:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.dll
+D:\dot net\file\Day-Nine\obj\Debug\net7.0\refint\Day-Nine.dll
+D:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.pdb
+D:\dot net\file\Day-Nine\obj\Debug\net7.0\Day-Nine.genruntimeconfig.cache
+D:\dot net\file\Day-Nine\obj\Debug\net7.0\ref\Day-Nine.dll
