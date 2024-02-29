@@ -3,9 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>Day_Nine</RootNamespace>
+    <RootNamespace>Day_Ten</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-     <StartupObject>Example.Six</StartupObject>
+    <StartupObject>Example.Three</StartupObject>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
