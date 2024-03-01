@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "d:\\dot net\\file\\Day-Nine\\Day-Nine.csproj": {}
+    "d:\\dot net\\file\\Day-Ten\\Day-Ten.csproj": {}
   },
   "projects": {
-    "d:\\dot net\\file\\Day-Nine\\Day-Nine.csproj": {
+    "d:\\dot net\\file\\Day-Ten\\Day-Ten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dot net\\file\\Day-Nine\\Day-Nine.csproj",
-        "projectName": "Day-Nine",
-        "projectPath": "d:\\dot net\\file\\Day-Nine\\Day-Nine.csproj",
+        "projectUniqueName": "d:\\dot net\\file\\Day-Ten\\Day-Ten.csproj",
+        "projectName": "Day-Ten",
+        "projectPath": "d:\\dot net\\file\\Day-Ten\\Day-Ten.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "d:\\dot net\\file\\Day-Nine\\obj\\",
-=======
-    "D:\\dot net\\file\\Day-Nine\\Day-Nine.csproj": {}
-  },
-  "projects": {
-    "D:\\dot net\\file\\Day-Nine\\Day-Nine.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\dot net\\file\\Day-Nine\\Day-Nine.csproj",
-        "projectName": "Day-Nine",
-        "projectPath": "D:\\dot net\\file\\Day-Nine\\Day-Nine.csproj",
-        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "D:\\dot net\\file\\Day-Nine\\obj\\",
->>>>>>> e21fd0af7bc4aa12bb2996877cba8f2405f7e255
+        "outputPath": "d:\\dot net\\file\\Day-Ten\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
