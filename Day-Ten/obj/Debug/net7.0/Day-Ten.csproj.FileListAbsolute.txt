@@ -1,0 +1,15 @@
+D:\dot net\file\Day-Ten\bin\Debug\net7.0\Day-Ten.exe
+D:\dot net\file\Day-Ten\bin\Debug\net7.0\Day-Ten.deps.json
+D:\dot net\file\Day-Ten\bin\Debug\net7.0\Day-Ten.runtimeconfig.json
+D:\dot net\file\Day-Ten\bin\Debug\net7.0\Day-Ten.dll
+D:\dot net\file\Day-Ten\bin\Debug\net7.0\Day-Ten.pdb
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.csproj.AssemblyReference.cache
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.AssemblyInfoInputs.cache
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.AssemblyInfo.cs
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.csproj.CoreCompileInputs.cache
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.dll
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\refint\Day-Ten.dll
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.pdb
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\Day-Ten.genruntimeconfig.cache
+D:\dot net\file\Day-Ten\obj\Debug\net7.0\ref\Day-Ten.dll
