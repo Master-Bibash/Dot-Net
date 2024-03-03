@@ -6,7 +6,7 @@
     <RootNamespace>Day_two</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>RefExample</StartupObject>
+    <StartupObject>interfaceexample</StartupObject>
   </PropertyGroup>
 
 </Project>
