@@ -3,10 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>Day_two</RootNamespace>
+    <RootNamespace>Day_Elevan</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>interfaceexample</StartupObject>
   </PropertyGroup>
 
 </Project>
