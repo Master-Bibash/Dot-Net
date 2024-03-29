@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 //operation add,sub,dev, using delegate and lamda ,
 // for example calculate(10,20) should call all the funcion add sub mul
 //remeber calculate is delegate
 
 
+=======
+>>>>>>> bd38d89bf5764c47949cdeb9ddd0431e17b8b4e9
 using System.Security.Cryptography.X509Certificates;
 
 namespace Example
@@ -11,6 +14,7 @@ namespace Example
 
      class Three
      {
+<<<<<<< HEAD
           public delegate void Calculate(int a, int b);
 
 
@@ -35,7 +39,24 @@ namespace Example
                };
 
                cpp(10, 5);
+=======
+          public delegate void calculate(int a, int b);
+
+
+          static void Main(String[] args)
+          {
+               
+               
+              
+
+>>>>>>> bd38d89bf5764c47949cdeb9ddd0431e17b8b4e9
           }
      }
 }
 
+<<<<<<< HEAD
+=======
+//operation add,sub,dev, using delegate and lamda ,
+// for example calculate(10,20) should call all the funcion add sub mul
+//remeber calculate is delegate
+>>>>>>> bd38d89bf5764c47949cdeb9ddd0431e17b8b4e9
