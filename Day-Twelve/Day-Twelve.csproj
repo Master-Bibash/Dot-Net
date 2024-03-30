@@ -6,7 +6,7 @@
     <RootNamespace>Day_Twelve</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Example.Two</StartupObject>
+    <StartupObject>Example.Three</StartupObject>
   </PropertyGroup>
    <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.0.32"/>
