@@ -1,0 +1,15 @@
+d:\dot net\file\Day-Four\bin\Debug\net7.0\Day-Four.exe
+d:\dot net\file\Day-Four\bin\Debug\net7.0\Day-Four.deps.json
+d:\dot net\file\Day-Four\bin\Debug\net7.0\Day-Four.runtimeconfig.json
+d:\dot net\file\Day-Four\bin\Debug\net7.0\Day-Four.dll
+d:\dot net\file\Day-Four\bin\Debug\net7.0\Day-Four.pdb
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.csproj.AssemblyReference.cache
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.GeneratedMSBuildEditorConfig.editorconfig
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.AssemblyInfoInputs.cache
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.AssemblyInfo.cs
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.csproj.CoreCompileInputs.cache
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.dll
+d:\dot net\file\Day-Four\obj\Debug\net7.0\refint\Day-Four.dll
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.pdb
+d:\dot net\file\Day-Four\obj\Debug\net7.0\Day-Four.genruntimeconfig.cache
+d:\dot net\file\Day-Four\obj\Debug\net7.0\ref\Day-Four.dll
