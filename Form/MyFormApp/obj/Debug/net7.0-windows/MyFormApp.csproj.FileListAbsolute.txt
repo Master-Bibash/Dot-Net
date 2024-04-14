@@ -1,0 +1,15 @@
+D:\dot net\file\Form\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.exe
+D:\dot net\file\Form\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.deps.json
+D:\dot net\file\Form\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.runtimeconfig.json
+D:\dot net\file\Form\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.dll
+D:\dot net\file\Form\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.pdb
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.AssemblyReference.cache
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfoInputs.cache
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfo.cs
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.CoreCompileInputs.cache
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.dll
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\refint\MyFormApp.dll
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.pdb
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.genruntimeconfig.cache
+D:\dot net\file\Form\MyFormApp\obj\Debug\net7.0-windows\ref\MyFormApp.dll
