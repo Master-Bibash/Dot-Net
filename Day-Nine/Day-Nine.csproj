@@ -5,7 +5,11 @@
     <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>Day_Nine</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
+<<<<<<< HEAD
+     <StartupObject>Example.Six</StartupObject>
+=======
      <StartupObject>Example.Two</StartupObject>
+>>>>>>> 37f4e28d98c5b1ffe057ea1d0d8e4e7fc577343d
     <Nullable>enable</Nullable>
   </PropertyGroup>
 

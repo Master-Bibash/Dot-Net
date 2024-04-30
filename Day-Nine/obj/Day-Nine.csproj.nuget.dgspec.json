@@ -2,6 +2,9 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 37f4e28d98c5b1ffe057ea1d0d8e4e7fc577343d
     "d:\\dot net\\file\\Day-Nine\\Day-Nine.csproj": {}
   },
   "projects": {
@@ -13,6 +16,8 @@
         "projectPath": "d:\\dot net\\file\\Day-Nine\\Day-Nine.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
         "outputPath": "d:\\dot net\\file\\Day-Nine\\obj\\",
+<<<<<<< HEAD
+=======
 =======
     "D:\\dot net\\file\\Day-Nine\\Day-Nine.csproj": {}
   },
@@ -26,6 +31,7 @@
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
         "outputPath": "D:\\dot net\\file\\Day-Nine\\obj\\",
 >>>>>>> e21fd0af7bc4aa12bb2996877cba8f2405f7e255
+>>>>>>> 37f4e28d98c5b1ffe057ea1d0d8e4e7fc577343d
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
