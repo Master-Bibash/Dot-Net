@@ -1,0 +1,15 @@
+D:\dot net\file\ExamPreparationQuestion\all\bin\Debug\net7.0\all.exe
+D:\dot net\file\ExamPreparationQuestion\all\bin\Debug\net7.0\all.deps.json
+D:\dot net\file\ExamPreparationQuestion\all\bin\Debug\net7.0\all.runtimeconfig.json
+D:\dot net\file\ExamPreparationQuestion\all\bin\Debug\net7.0\all.dll
+D:\dot net\file\ExamPreparationQuestion\all\bin\Debug\net7.0\all.pdb
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.csproj.AssemblyReference.cache
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.AssemblyInfoInputs.cache
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.AssemblyInfo.cs
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.csproj.CoreCompileInputs.cache
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.dll
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\refint\all.dll
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.pdb
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\all.genruntimeconfig.cache
+D:\dot net\file\ExamPreparationQuestion\all\obj\Debug\net7.0\ref\all.dll
