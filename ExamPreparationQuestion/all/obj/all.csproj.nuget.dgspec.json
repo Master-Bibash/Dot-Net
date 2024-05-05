@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj": {}
+    "D:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj": {}
   },
   "projects": {
-    "d:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj": {
+    "D:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj",
+        "projectUniqueName": "D:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj",
         "projectName": "all",
-        "projectPath": "d:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj",
+        "projectPath": "D:\\dot net\\file\\ExamPreparationQuestion\\all\\all.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "d:\\dot net\\file\\ExamPreparationQuestion\\all\\obj\\",
+        "outputPath": "D:\\dot net\\file\\ExamPreparationQuestion\\all\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
